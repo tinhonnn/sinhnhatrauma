@@ -4,7 +4,7 @@ const birthdayText = document.getElementById("birthdayText");
 const birthdayMusic = document.getElementById("birthdayMusic");
 
 const texts = [
-  "Chúc em Wei tuổi mới thành thợ Thanh Hóa nhưng không phải trên đường tàu mà trên bàn Bida nhé 🥳🔥",
+  "Chúc em Wei tuổi mới thành thợ Thanh Hóa nhưng không phải trên đường tàu mà trên bàn Bida nhé 🥬🥳🔥",
   "Lastlong tramy elm nhé 😎✨",
   "Thuốc lá xuyên lục địa và vũ trụ 🎁🎉"
 ];
